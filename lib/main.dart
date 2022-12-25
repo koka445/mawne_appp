@@ -42,6 +42,7 @@ children: [
   ),
    SizedBox(
     width: 16.0,
+    height: 13.0,
    )
   
 
